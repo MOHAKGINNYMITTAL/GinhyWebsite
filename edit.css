@@ -1,0 +1,20 @@
+body{
+    
+    margin: 0px;
+    background-color:#06faee;
+    color:rgb(4, 150, 247);
+    
+}
+
+h1{
+    background-color: rgb(187, 255, 0);
+}
+.menu{
+    background-color: 'tan';
+}
+a:link{
+    color: rgb(173, 243, 10);
+}
+a:visited{
+    color: rgb(0, 58, 250);
+}
